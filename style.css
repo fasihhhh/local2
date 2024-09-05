@@ -2,3 +2,6 @@ p {
     color: beige;
     background-color: orchid;
 }
+p:hover{
+    scale: 1.2;
+}
